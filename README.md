@@ -1,5 +1,5 @@
 # AudioToText
-Built a Real-Time Automatic Speech Recognition powered by Facebooks Wav2Vec2 Deep Learning Model.
+Built a Real-Time Automatic Speech Recognition using Deep Learning Model.
 Hugging Face Transformers Pipeline for Audio (Speech) to Text and Gradio for the Python Web app were used for live audio transcription.
 Then the ML Gradio App was deployed on Hugging Face Spaces.
 
